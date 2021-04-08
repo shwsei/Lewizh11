@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center" > Hi, I am Luiz</h1>
+<hr/>
+<div align="center">
+ 
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewizh11&theme=nord&show_icons=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewizh11)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Lewizh11/Lewizh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 🔗 Contatos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Luizh11_)
+[![Telegram](https://img.shields.io/badge/Telegram-ShuseiKagari-blue)](https://t.me/ShuseiKagari)
+<hr />
+### 👀 Contador de visitas
+[![HitCount](http://hits.dwyl.com/Lewizh11/Lewizh11.svg)](http://hits.dwyl.com/Lewizh11/Lewizh11)
