@@ -1,8 +1,7 @@
-<h1 align="center" > Hi, I am Luiz</h1>
 <hr/>
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewizh11&theme=nord&show_icons=true)
 <div align="center">
-[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewizh11&theme=nord&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewizh11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewizh11&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🔗 Contatos:
