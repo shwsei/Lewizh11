@@ -5,6 +5,3 @@
 
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Luizh11_)
 [![Telegram](https://img.shields.io/badge/Telegram-ShuseiKagari-blue)](https://t.me/ShuseiKagari)
-
-### 👀 Contador de visitas
-[![HitCount](http://hits.dwyl.com/Lewizh11/Lewizh11.svg)](http://hits.dwyl.com/Lewizh11/Lewizh11)
