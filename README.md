@@ -2,5 +2,5 @@
 
 ## 🔗 Contatos:
 
-[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Luizh11_)
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/shusei_lewiz)
 [![Telegram](https://img.shields.io/badge/Telegram-ShuseiKagari-blue)](https://t.me/ShuseiKagari)
